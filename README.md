@@ -1,5 +1,5 @@
 # ULEZ_house_prices_WMESP
-This is the online appendix accompanying the working paper 'How Does Emissions-Charging Influence House Prices? Evidence From London’s ULEZ', soon to be available at https://warwick.ac.uk/fac/soc/economics/research/wmesp/ and also available above.
+This is the online appendix accompanying the working paper 'How Does Emissions-Charging Influence House Prices? Evidence From London’s ULEZ', soon to be available at https://warwick.ac.uk/fac/soc/economics/research/wmesp/ and also available above. The same working paper is also soon to be available in the 24th edition of the Carroll Round Proceedings, accessible at https://repository.library.georgetown.edu/handle/10822/559575, following my presentation at the 24th Carroll Round Conference at Georgetown University.
 
 ----
 
